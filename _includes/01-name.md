@@ -4,3 +4,9 @@
 - Java
 - python
 - C#
+
+*This will be italic*
+_this will be bold_
+
+**This will be italic**
+_this will be bold_
